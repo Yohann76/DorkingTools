@@ -8,8 +8,23 @@ The project is still recent and in development, do not hesitate to test the proj
 
 ```shell
 sudo apt-get install python3.7
-git clone 
+git clone https://github.com/Yohann76/DorkingTools/blob/master/DorkingTools.py
+cd DorkingTools
+
+
 DorkingTools.py -h 
+```
+
+Update your environment 
+
+```shell
+
+python3 -m venv venv  // create environment 
+\env\Scripts\activate // activate environment // deactivate
+python3 -m pip install requests
+
+python -m pip install -r requirements.txt
+
 ```
 
 ### Usage & Option
