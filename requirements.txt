@@ -1,2 +1,2 @@
-googlesearch-python
 BeautifulSoup4
+termcolor
